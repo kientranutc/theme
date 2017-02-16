@@ -1,0 +1,8 @@
+@media (max-width:768px) {
+	.inner-signin {
+	float: left;
+}
+.inner-signin .login a:hover, .inner-signin .regester a:hover{
+	background: unset;
+}
+}

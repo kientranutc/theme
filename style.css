@@ -1,0 +1,48 @@
+#hot-line{
+	background: #4e69a2;
+		overflow: hidden;
+		padding: 3px 0px;
+		
+}
+#hotline-icon{
+	padding: 5px 5px;
+    border: 2px solid #fff;
+    margin-bottom: 4px;
+    border-radius: 100%;
+    color: #fff;
+}
+.hotline-text,.hotline-number{
+   vertical-align: 2px;
+    font-size: 16px;
+}
+.hotline-text{
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	vertical-align: 0px;
+}
+.hotline-number{
+	font-size: 20px;
+	font-weight: bold;
+	color: #EE2121;
+	vertical-align: -1px;
+}
+.inner-signin {
+	float: right;
+}
+.inner-signin .login, .inner-signin .regester{
+float: left;
+}
+.inner-signin .login a span, .inner-signin .regester a span{
+	color: #fff;
+}
+
+.inner-signin .login a, .inner-signin .regester a{
+	color:  #fff;
+	text-decoration: none;
+    padding: 14px 10px;
+    vertical-align: -7px;
+}
+.inner-signin .login a:hover, .inner-signin .regester a:hover{
+	background: #e95e0b;
+}
