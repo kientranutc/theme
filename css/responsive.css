@@ -3,6 +3,13 @@
 	float: left;
 }
 .inner-signin .login a:hover, .inner-signin .regester a:hover{
-	background: unset;
+	background: unset !important;
 }
+#input-search{
+	width: 100%;
+}
+#submit-search{
+	right: 0 !important;
+}
+
 }
