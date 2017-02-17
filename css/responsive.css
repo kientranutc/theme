@@ -11,5 +11,9 @@
 #submit-search{
 	right: 0 !important;
 }
+.content-right {
+    width: 100%;
+    padding: 0px !important;
+}
 
 }
