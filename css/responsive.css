@@ -15,5 +15,31 @@
     width: 100%;
     padding: 0px !important;
 }
+.content-left{
+	width: 100%;
+}
 
+.category-product-title{
+	margin-left: 0px !important;
+	border: none !important;
+	height: auto !important;
+}
+.parent ul{
+	margin-left: 0px !important;
+}
+.more{
+	float: left;
+}
+.list-product li{
+    width: 100%;
+    float: none !important;
+    margin:1% 1% 0 0;
+}
+.product{
+	margin-top: 30px;
+}
+.img-product{
+	width: 50% !important;
+	height: auto;
+}
 }
