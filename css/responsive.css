@@ -42,4 +42,36 @@
 	width: 50% !important;
 	height: auto;
 }
+.product-detail-img{
+	height: auto !important;
+}
+.slideshowproduct .slide {
+    width: 100% !important;
+    height: auto;
+  
+}
+.addcart-share-fb a:first-child{
+margin-left: 10px;
+}
+.addcart-share-fb{
+	margin-left: 10px;
+}
+
+.nav-tabs li.active a:before{
+    content: "";
+    width: 0;
+    height: 0;
+   
+   position: absolute;
+   top:3px;
+   left: 10px;
+}
+.nav-tabs li{
+width: 165px;
+margin: 0px 0px 2px;
+}
+.product-name-detail,.product-price{
+	margin-left:15px;
+
+}
 }

@@ -5,6 +5,12 @@ $(document).ready(function() {
       loop:true,
       slideSpeed: 300,
     });
-   
+
+   $(".slideshowproduct").owlCarousel({ 
+     autoPlay:true,
+      items:4,
+      loop:true,
+      slideSpeed: 300,
+    });
    
     });
